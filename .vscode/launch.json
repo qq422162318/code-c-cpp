@@ -10,7 +10,7 @@
             "name": "Debug",
             "program": "${fileDirname}/${fileBasenameNoExtension}.out",
             "args": [],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}.out",
             "c-cpp-compile-run.c-compiler":"/usr/bin/clang",
             "c-cpp-compile-run.cpp-compiler":"/usr/bin/clang",
         }
